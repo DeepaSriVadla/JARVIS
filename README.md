@@ -46,6 +46,15 @@ Jarvis/
 ```
 
 ---
+Libraries Used
+
+- **SpeechRecognition** – Converts speech into text.
+- **pyttsx3** – Converts text into speech.
+- **PyAudio** – Captures audio from the microphone.
+- **requests** – Fetches data from web APIs.
+- **wikipedia** – Retrieves information from Wikipedia.
+- **pywhatkit** – Performs tasks like playing YouTube videos and searching the web.
+---
 
 ## ▶️ How to Run
 
