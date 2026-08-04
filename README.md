@@ -54,6 +54,13 @@ Libraries Used
 - **requests** – Fetches data from web APIs.
 - **wikipedia** – Retrieves information from Wikipedia.
 - **pywhatkit** – Performs tasks like playing YouTube videos and searching the web.
+  
+Additional 
+- **datetime** – Handles date and time operations (Built-in Python module).
+- **webbrowser** – Opens websites in the default browser (Built-in Python module).
+- **os** – Performs operating system-related tasks (Built-in Python module).
+- **time** – Handles time-related operations (Built-in Python module).
+  
 ---
 
 ## ▶️ How to Run
